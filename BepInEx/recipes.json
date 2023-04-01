@@ -1094,6 +1094,19 @@
       ]
     }
   },
+    "390": {
+      "Count": 1,
+      "Ingredients": [
+        {
+          "ItemId": 595,
+          "Count": 10
+        },
+        {
+          "ItemId": 393,
+          "Count": 2
+        }
+      ]
+    }
   
   "ApplyCraft": [
     496,
