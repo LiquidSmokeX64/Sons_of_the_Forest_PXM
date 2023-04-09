@@ -12,12 +12,8 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 415,
-          "Count": 2
-        },
-        {
-          "ItemId": 484,
-          "Count": 1
+          "ItemId": 502,
+          "Count": 4
         }
       ]
     },
@@ -27,6 +23,10 @@
         {
           "ItemId": 415,
           "Count": 7
+        },
+        {
+          "ItemId": 419,
+          "Count": 2
         }
       ]
     },
@@ -91,7 +91,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 2
+          "Count": 1
         },
         {
           "ItemId": 414,
@@ -107,20 +107,21 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 527,
+          "ItemId": 476,
           "Count": 1
         },
         {
-          "ItemId": 390,
+          "ItemId": 527,
           "Count": 1
         }
+        
       ]
     },
     "437": {
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 390,
+          "ItemId": 438,
           "Count": 1
         },
         {
@@ -151,7 +152,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 416,
@@ -167,7 +168,7 @@
           "Count": 1
         },
         {
-          "ItemId": 419,
+          "ItemId": 466,
           "Count": 1
         }
       ]
@@ -190,7 +191,7 @@
       "Ingredients": [
         {
           "ItemId": 418,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 527,
@@ -224,7 +225,7 @@
       "Ingredients": [
         {
           "ItemId": 416,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 410,
@@ -241,7 +242,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 392,
@@ -257,7 +258,7 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 412,
+          "ItemId": 529,
           "Count": 1
         },
         {
@@ -274,7 +275,7 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 527,
+          "ItemId": 529,
           "Count": 1
         },
         {
@@ -291,13 +292,17 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 390,
+          "ItemId": 355,
           "Count": 1
         },
         {
           "ItemId": 419,
+          "Count": 5
+        },
+        {
+          "ItemId": 480,
           "Count": 1
-        }
+        },
       ]
     },
     "346": {
@@ -318,7 +323,7 @@
       "Ingredients": [
         {
           "ItemId": 414,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 440,
@@ -405,7 +410,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 403,
@@ -430,7 +435,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 416,
@@ -459,7 +464,7 @@
       "Ingredients": [
         {
           "ItemId": 392,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 527,
@@ -488,15 +493,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 3
-        },
-        {
-          "ItemId": 393,
           "Count": 1
-        },
-        {
-          "ItemId": 419,
-          "Count": 2
         },
         {
           "ItemId": 392,
@@ -504,6 +501,10 @@
         },
         {
           "ItemId": 504,
+          "Count": 1
+        },
+        {
+          "ItemId": 380,
           "Count": 1
         }
       ]
@@ -534,7 +535,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 414,
@@ -576,19 +577,15 @@
       "Ingredients": [
         {
           "ItemId": 504,
-          "Count": 3
+          "Count": 1
         },
         {
-          "ItemId": 403,
+          "ItemId": 415,
           "Count": 2
         },
         {
           "ItemId": 392,
           "Count": 10
-        },
-        {
-          "ItemId": 419,
-          "Count": 1
         }
       ]
     },
@@ -614,7 +611,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 2
+          "Count": 1
         },
         {
           "ItemId": 472,
@@ -635,7 +632,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 403,
@@ -660,7 +657,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 410,
@@ -681,7 +678,7 @@
       "Ingredients": [
         {
           "ItemId": 465,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 452,
@@ -702,7 +699,7 @@
       "Ingredients": [
         {
           "ItemId": 446,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 452,
@@ -740,7 +737,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 392,
@@ -783,7 +780,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 484,
@@ -833,7 +830,7 @@
         }
       ]
     },
-    "412": {
+    "529": {
       "Count": 1,
       "Ingredients": [
         {
@@ -851,7 +848,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 403,
@@ -872,7 +869,7 @@
       "Ingredients": [
         {
           "ItemId": 415,
-          "Count": 2
+          "Count": 1
         },
         {
           "ItemId": 419,
@@ -885,7 +882,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 416,
@@ -923,7 +920,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 5
+          "Count": 1
         },
         {
           "ItemId": 393,
@@ -939,13 +936,14 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 496,
-          "Count": 5000
-        },
-        {
           "ItemId": 502,
           "Count": 20
+        },
+        {
+          "ItemId": 496,
+          "Count": 5000
         }
+        
       ]
     },
     "384": {
@@ -953,7 +951,7 @@
       "Ingredients": [
         {
           "ItemId": 472,
-          "Count": 3
+          "Count": 1
         },
         {
           "ItemId": 410,
@@ -983,7 +981,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 4
+          "Count": 1
         },
         {
           "ItemId": 414,
@@ -1009,7 +1007,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 2
+          "Count": 1
         },
         {
           "ItemId": 410,
@@ -1026,19 +1024,11 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 10
+          "Count": 1
         },
         {
           "ItemId": 418,
           "Count": 7
-        },
-        {
-          "ItemId": 410,
-          "Count": 5
-        },
-        {
-          "ItemId": 414,
-          "Count": 3
         }
       ]
     },
@@ -1077,7 +1067,7 @@
       "Ingredients": [
         {
           "ItemId": 390,
-          "Count": 10
+          "Count": 1
         },
         {
           "ItemId": 392,
@@ -1092,28 +1082,35 @@
           "Count": 1
         }
       ]
-    }
-  },
+    },
     "390": {
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 595,
-          "Count": 10
+          "ItemId": 484,
+          "Count": 1
         },
         {
-          "ItemId": 393,
+          "ItemId": 466,
+          "Count": 2
+        },
+        {
+          "ItemId": 476,
           "Count": 2
         }
       ]
     }
-  
+  },
+    
   "ApplyCraft": [
     496,
     450,
-    412,
+    529,
     504,
     390,
-    440
+    440,
+    438,
+    466
   ]
 }
+
