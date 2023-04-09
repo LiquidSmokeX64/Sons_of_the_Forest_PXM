@@ -77,7 +77,7 @@
           "Count": 1
         },
         {
-          "ItemId": 414,
+          "ItemId": 388,
           "Count": 1
         },
         {
@@ -94,7 +94,7 @@
           "Count": 1
         },
         {
-          "ItemId": 414,
+          "ItemId": 388,
           "Count": 1
         },
         {
@@ -138,7 +138,7 @@
           "Count": 1
         },
         {
-          "ItemId": 414,
+          "ItemId": 388,
           "Count": 2
         },
         {
@@ -338,8 +338,8 @@
           "Count": 3
         },
         {
-          "ItemId": 415,
-          "Count": 1
+          "ItemId": 496,
+          "Count": 50
         }
       ]
     },
@@ -606,7 +606,7 @@
           "Count": 1
         },
         {
-          "ItemId": 472,
+          "ItemId": 502,
           "Count": 1
         },
         {
@@ -817,7 +817,7 @@
           "Count": 1
         },
         {
-          "ItemId": 414,
+          "ItemId": 388,
           "Count": 2
         }
       ]
@@ -831,6 +831,10 @@
         },
         {
           "ItemId": 527,
+          "Count": 1
+        },
+        {
+          "ItemId": 445,
           "Count": 1
         }
       ]
@@ -1019,7 +1023,7 @@
           "Count": 1
         },
         {
-          "ItemId": 418,
+          "ItemId": 392,
           "Count": 7
         }
       ]
@@ -1104,6 +1108,70 @@
           "Count": 2
         }
       ]
+    },
+    "634": {
+      "Count": 1,
+      "Ingredients": [
+        {
+          "ItemId": 635,
+          "Count": 2
+        },
+        {
+          "ItemId": 445,
+          "Count": 2
+        },
+        {
+          "ItemId": 418,
+          "Count": 2
+        },
+        {
+          "ItemId": 504,
+          "Count": 2
+        }
+      ]
+    },
+    "635": {
+      "Count": 1,
+      "Ingredients": [
+        {
+          "ItemId": 414,
+          "Count": 3
+        },
+        {
+          "ItemId": 418,
+          "Count": 5
+        }
+      ]
+    },
+    "636": {
+      "Count": 1,
+      "Ingredients": [
+        {
+          "ItemId": 471,
+          "Count": 1
+        },
+        {
+          "ItemId": 394,
+          "Count": 1
+        },
+        {
+          "ItemId": 390,
+          "Count": 10
+        }
+      ]
+    },
+    "419": {
+      "Count": 1,
+      "Ingredients": [
+        {
+          "ItemId": 445,
+          "Count": 5
+        },
+        {
+          "ItemId": 484,
+          "Count": 3
+        }
+      ]
     }
   },
     
@@ -1116,7 +1184,11 @@
     440,
     438,
     466,
-    445
+    445,
+    388,
+    471,
+    394,
+    635
   ]
 }
 
