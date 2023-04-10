@@ -245,7 +245,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 1
         },
         {
@@ -351,7 +351,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 3
         },
         {
@@ -459,7 +459,7 @@
       "Count": 1,
       "Ingredients": [
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 1
         },
         {
@@ -492,7 +492,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 5
         },
         {
@@ -576,8 +576,8 @@
           "Count": 2
         },
         {
-          "ItemId": 392,
-          "Count": 10
+          "ItemId": 503,
+          "Count": 3
         }
       ]
     },
@@ -610,7 +610,7 @@
           "Count": 3
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 1
         },
         {
@@ -711,7 +711,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 5
         },
         {
@@ -762,7 +762,7 @@
           "Count": 5
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 1
         }
       ]
@@ -775,7 +775,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 3
         },
         {
@@ -830,7 +830,7 @@
           "Count": 3
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 5
         },
         {
@@ -1015,7 +1015,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 3
         },
         {
@@ -1032,7 +1032,7 @@
           "Count": 1
         },
         {
-          "ItemId": 392,
+          "ItemId": 503,
           "Count": 10
         },
         {
@@ -1203,7 +1203,8 @@
     394,
     635,
     451,
-    437
+    437,
+    503
   ]
 }
 
