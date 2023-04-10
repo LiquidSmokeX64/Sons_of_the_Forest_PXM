@@ -233,7 +233,8 @@
         },
         {
           "ItemId": 380,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         }
       ]
     },
@@ -293,7 +294,8 @@
       "Ingredients": [
         {
           "ItemId": 355,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         },
         {
           "ItemId": 419,
@@ -348,7 +350,8 @@
       "Ingredients": [
         {
           "ItemId": 355,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         },
         {
           "ItemId": 503,
@@ -377,7 +380,8 @@
       "Ingredients": [
         {
           "ItemId": 355,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         },
         {
           "ItemId": 403,
@@ -501,7 +505,8 @@
         },
         {
           "ItemId": 380,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         }
       ]
     },
@@ -510,7 +515,8 @@
       "Ingredients": [
         {
           "ItemId": 380,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         },
         {
           "ItemId": 390,
@@ -552,7 +558,8 @@
       "Ingredients": [
         {
           "ItemId": 380,
-          "Count": 1
+          "Count": 1,
+          "IsReusable": true
         },
         {
           "ItemId": 415,
