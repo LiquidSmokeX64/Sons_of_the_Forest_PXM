@@ -1014,6 +1014,18 @@
     "\"Name (SNAKE_CASE)\"": "LEATHER_JACKET"
   },
   {
+    "ID": "634",
+    "\"Name (singular)\"": "\"Solar Panel\"",
+    "\"Name (PascalCase)\"": "SolarPanel",
+    "\"Name (SNAKE_CASE)\"": "SOLAR_PANEL"
+  },
+  {
+    "ID": "635",
+    "\"Name (singular)\"": "\"Light Bulb\"",
+    "\"Name (PascalCase)\"": "LightBulb",
+    "\"Name (SNAKE_CASE)\"": "LIGHT_BULB"
+  },
+  {
     "ID": "395",
     "\"Name (singular)\"": "\"Log Plank\"",
     "\"Name (PascalCase)\"": "LogPlank",
