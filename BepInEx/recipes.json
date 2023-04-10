@@ -233,8 +233,7 @@
         },
         {
           "ItemId": 380,
-          "Count": 1,
-          "IsReusable": true
+          "Count": 1
         }
       ]
     },
@@ -294,8 +293,7 @@
       "Ingredients": [
         {
           "ItemId": 355,
-          "Count": 1,
-          "IsReusable": true
+          "Count": 1
         },
         {
           "ItemId": 419,
@@ -350,8 +348,7 @@
       "Ingredients": [
         {
           "ItemId": 355,
-          "Count": 1,
-          "IsReusable": true
+          "Count": 1
         },
         {
           "ItemId": 503,
