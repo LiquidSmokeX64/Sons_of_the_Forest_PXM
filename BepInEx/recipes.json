@@ -564,23 +564,6 @@
         }
       ]
     },
-    "626": {
-      "Count": 1,
-      "Ingredients": [
-        {
-          "ItemId": 504,
-          "Count": 1
-        },
-        {
-          "ItemId": 415,
-          "Count": 2
-        },
-        {
-          "ItemId": 503,
-          "Count": 1
-        }
-      ]
-    },
     "368": {
       "Count": 1,
       "Ingredients": [
