@@ -5,8 +5,9 @@ Current features:
 
 1. Mod Menu for some basic commands (binds to "~")
 2. Many new and old (The Forest) crafting recipes to craft basic items [ie: Rope, Cloth , etc], making gathering for yourself more rewarding.
-3. Many new crafting recipes to craft most items [ie: Ammo, Weapons, etc.] to make going into caves mostly optional. For Builders and to make more things less limited overall mostly.
+3. Many new crafting recipes to craft most items [ie: Ammo, Weapons, etc.] to make going into caves mostly optional. For Builders and to make more things less limited overall.
 4. Greatly increased Inventory Stack limits.
+
 Installation:
 
 Copy the files here into the game directory. That is all.
