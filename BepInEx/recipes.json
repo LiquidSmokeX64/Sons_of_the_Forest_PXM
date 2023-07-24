@@ -1,7 +1,8 @@
+{
  "InvEdit":
     {
     "494":[{"ItemId":405,"Count":3,"IsReusable":false},{"ItemId":403,"Count":1,"IsReusable":false},{"ItemId":419,"Count":1,"IsReusable":false}]
-    }, 
+    },
  "InvCustom":
     {
    "340":{"Count":1,"Ingredients":[{"ItemId":390,"Count":1,"IsReusable":false},{"ItemId":403,"Count":3,"IsReusable":false},{"ItemId":503,"Count":1,"IsReusable":false},{"ItemId":416,"Count":5,"IsReusable":false}]},
@@ -76,3 +77,4 @@
  "ApplyCraft":
  [496,450,529,504,390,440,438,466,445,388,394,635,451,437,503,386,634]
 }
+
